@@ -1,0 +1,110 @@
+[
+    {
+        "CategoryName": "EcoCycle Services",
+        "name": "GreenGlide Tune-Up",
+        "img": "https://cyclingmagazine.ca/wp-content/uploads/2012/09/35042_story.jpg",
+        "options": [
+            {
+                "half": "130",
+                "full": "220"
+            }
+        ],
+        "description": "Ensure your bike is running smoothly with our GreenGlide Tune-Up. We'll check and adjust gears, brakes,"
+    },
+    {
+        "CategoryName": "SwiftSpin Garage",
+        "name": "SwiftSpin Express",
+        "img": "https://m.media-amazon.com/images/I/415JmiRJu6L._AC_UF894,1000_QL80_.jpg",
+        "options": [
+            {
+                "half": "110",
+                "full": "200"
+            }
+        ],
+        "description": "Need a quick fix? Our SwiftSpin Express service is designed for those on the go. We'll swiftly handle minor adjustments, oil the chain, and have you back on your bike in no time."
+    },
+    {
+        "CategoryName": "EcoCycle Services",
+        "name": "Urban Explorer Package",
+        "img": "https://lirp.cdn-website.com/9822ac25/dms3rep/multi/opt/UE200+2-640w.jpg",
+        "options": [
+            {
+                "half": "200",
+                "full": "320"
+            }
+        ],
+        "description": "Take your urban adventures to the next level with our Urban Explorer Package. This all-in-one service includes a thorough bike inspection"
+    },
+    {
+        "CategoryName": "SwiftSpin Garage",
+        "name": "ProPedal Performance Upgrade",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGrsl7xPX_VHjuFpj1ipHJYCpAVhl1hj6BQ&usqp=CAU",
+        "options": [
+            {
+                "half": "170",
+                "full": "300"
+            }
+        ],
+        "description": "Elevate your biking experience with the ProPedal Performance Upgrade. Our experts will fine-tune your bike for optimal performance"
+    },
+    {
+        "CategoryName": "RideRevive Hub",
+        "name": " RideReady Safety Check",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsS3L0-6H5yV8fUmA9XjKH1O2OhbLhdeFM5BQfh7DpzqX4ixzNCkH3jCU3lxWd2f_KtxE&usqp=CAU=",
+        "options": [
+            {
+                "half": "150",
+                "full": "260"
+            }
+        ],
+        "description": "Prioritize safety with our RideReady Safety Check. We'll inspect critical components, tighten bolts, and ensure your bike meets safety standards. Leave with peace of mind on every ride."
+    },
+    {
+        "CategoryName": "RideRevive Hub",
+        "name": "CycleRefresh Detailing",
+        "img": "https://cdn.shopify.com/s/files/1/0797/2968/8869/files/WI1D1840.jpg?v=1692782660&width=1080",
+        "options": [
+            {
+                "half": "120",
+                "full": "220"
+            }
+        ],
+        "description": "Give your bike a spa day with our CycleRefresh Detailing service. We'll clean, polish, and protect every inch of your bike, leaving it looking as good as new."
+    },
+    {
+        "CategoryName": "PedalPro Services",
+        "name": "GearGuard Tune-Up",
+        "img": "https://m.media-amazon.com/images/I/71jlkRBm01L._AC_UF1000,1000_QL80_.jpg",
+        "options": [
+            {
+                "half": "120",
+                "full": "200"
+            }
+        ],
+        "description": "PedalPro Services is your go-to destination for comprehensive bike care. Our commitment lies in providing top-notch maintenance and repair solutions for all types of bicycles, ensuring a smooth and safe ride every time."
+    },
+    {
+        "CategoryName": "WheelWorks Solutions",
+        "name": "UrbanRevive Maintenance",
+        "img": "https://monimoto.com/media/motorcycle-maintenance-hero.jpg",
+        "options": [
+            {
+                "half": "150",
+                "full": "260"
+            }
+        ],
+        "description": " Our UrbanRevive Maintenance service focuses on revitalizing your urban ride, offering a complete check and servicing to keep your bike in prime condition."
+    },
+    {
+        "CategoryName": "CycleCraft Care",
+        "name": "CitySprint Service+",
+        "img": "https://image.made-in-china.com/202f0j00ziFrpBkJMwbV/Motor-Bike-Spare-Parts-Motorcycle-CNC-Body-Accessories-Customized-Bike-Modification-Parts.jpg",
+        "options": [
+            {
+                "half": "170",
+                "full": "300"
+            }
+        ],
+        "description": " CitySprint Service+ is a comprehensive package designed to cater to urban cyclists' needs. "
+    }
+]
